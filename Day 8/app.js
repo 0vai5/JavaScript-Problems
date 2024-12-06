@@ -24,6 +24,32 @@
 //         }
 //     }
 
+
+
+
+
+// function fibinocci (n) {
+//     if(n <= 1) {
+//         return n;
+//     }
+
+//     return fibinocci(n-1) + fibinocci(n-2);
+// }
+
+// console.log(fibinocci(9)); // 34
+// console.log(fibinocci(10)); // 55
+
+// function areAnagrams(str1, str2) {
+//   var normalStr1 = str1.toLowerCase().split("").sort().join("");
+
+//   var normalStr2 = str2.toLowerCase().split("").sort().join("");
+
+//   return normalStr1 === normalStr2;
+// }
+
+// console.log(areAnagrams("listen", "silent")); // true
+// console.log(areAnagrams("hello", "world")); // false
+
 //     return palindromicStr;
 // }
 
